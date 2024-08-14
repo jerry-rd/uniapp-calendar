@@ -1,0 +1,1 @@
+<jerry-calendar wx:if="{{b}}" bindselectData="{{a}}" u-i="5b744c02-0" bind:__l="__l" u-p="{{b}}"></jerry-calendar>
